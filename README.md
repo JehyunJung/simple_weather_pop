@@ -27,6 +27,6 @@ Once you've started expo, use your smartphone to read QR-code
 [1]: How to Install Node.js
 
 ## References
-[Expo Documents] (https://docs.expo.io/versions/latest/)  
-[React-Native Documents] (https://reactnative.dev/docs/getting-started)  
-[Nomad Academy Course] (https://academy.nomadcoders.co/courses/enrolled/216885)  
+[Expo Documents](https://docs.expo.io/versions/latest/)  
+[React-Native Documents](https://reactnative.dev/docs/getting-started)  
+[Nomad Academy Course](https://academy.nomadcoders.co/courses/enrolled/216885)  
